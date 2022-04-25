@@ -1,0 +1,16 @@
+module.exports = {
+  Category: require("./Category"),
+  CCTransaction: require("./CCTransaction"),
+  Coupon: require("./Coupon"),
+  OrderProduct: require("./OrderProduct"),
+  ProductCategory: require("./ProductCategory"),
+  Product: require("./Product"),
+  ProductStatus: require("./ProductStatus"),
+  ProductTag: require("./ProductTag"),
+  Role: require("./Role"),
+  SalesOrder: require("./SalesOrder"),
+  Session: require("./Session"),
+  Tag: require("./Tag"),
+  UserRole: require("./UserRole"),
+  User: require("./User"),
+};
